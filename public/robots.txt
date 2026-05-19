@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /checkout
+Disallow: /login
+Disallow: /register
+Disallow: /password/reset
+
+Sitemap: https://www.aonehospicare.shop/sitemap.xml
